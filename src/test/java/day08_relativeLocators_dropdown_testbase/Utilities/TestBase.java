@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.time.Duration;
 
 public abstract class TestBase {
+
     protected WebDriver driver;
 
     @BeforeEach
@@ -23,15 +24,25 @@ public abstract class TestBase {
 
     @AfterEach
     public void tearDown() {
-        driver.quit();
+       // driver.quit();
     }
-public void waitForSecond(int second) throws InterruptedException {
-        Thread.sleep(second*1000);
+
+    public void waitForSecond(int second){
+        try {
+            Thread.sleep(second*1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public  void  selectVisibleText(WebElement ddm,String option){
+        Select select = new Select(ddm);
+        select.selectByVisibleText(option);
+    }
+public void selectIndex(WebElement ddm,int idx){
+        Select select=new Select(ddm);
+        select.selectByIndex(idx);
 }
-//select VisibleText DDM
-public void selectVisible(WebElement ddm,String opt){
-    Select select=new Select(ddm);
-    select.selectByVisibleText(opt);
-}
+
 
 }
