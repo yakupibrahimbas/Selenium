@@ -25,6 +25,9 @@ public class C04_Iframe extends TestBase {
         WebElement elementalSelenium = driver.findElement(By.xpath("//*[.='Elemental Selenium']"));
         Assertions.assertEquals("Elemental Selenium",elementalSelenium.getText());
 
-
+        //driver.navigate().refresh();=>driver anasayfaya gecis yapar.
+        //ama dikkatli kullanmaliyiz cunku eger form elementler var ise ve islem yapildi ise bu bilgiler ilk haline doner
+        //driver.get(driver.getCurrentUrl());
+        //homework
     }
 }
