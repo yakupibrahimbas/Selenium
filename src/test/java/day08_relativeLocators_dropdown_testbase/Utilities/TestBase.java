@@ -43,6 +43,8 @@ public void selectIndex(WebElement ddm,int idx){
         Select select=new Select(ddm);
         select.selectByIndex(idx);
 }
-
+public void switchToWindow(int index){
+        driver.switchTo().window(driver.getWindowHandles().toArray()[index].toString());
+}
 
 }
