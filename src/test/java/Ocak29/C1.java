@@ -25,6 +25,11 @@ public class C1 extends TestBase {
         waitForSecond(2);
         driver.switchTo().window(youtubeWindowHandle);
         waitForSecond(2);
+        /*
+        Acilms olan tum pencerelerin window handle degerlerini getWindowHandles methodu ile aldik
+        Bu set bir set return eder. ancak setlerde index kullanarak istedigimiz bir elemani secmek mumkun degildir
+        Lislerde get() methodu saysende index kullanarak istedigimiz pencereye rahatlikla gecis yapabiliriz
+         */
 
 
 
