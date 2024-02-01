@@ -15,3 +15,5 @@ L
 src/test/java/Subat1/C2.java,2\3\23c482a6ee7c9ba1d079bd5e2319873322232db3
 q
 Asrc/test/java/day12_actions_faker_files/C01_ActionsClassWork.java,c\8\c8d530df7c530256132e22d4899e53d426c2253e
+q
+Asrc/test/java/day12_actions_faker_files/C02_ActionsClassWork.java,a\0\a00d92a752f3d28b553990358642c389e10891dc
