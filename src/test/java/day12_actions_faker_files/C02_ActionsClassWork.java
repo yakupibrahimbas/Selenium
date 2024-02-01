@@ -15,10 +15,36 @@ public class C02_ActionsClassWork extends TestBase {
         driver.get("https://jqueryui.com/droppable/");
         driver.switchTo().frame(0);//sayfada 1 tane iframe bulundugu icin calisma yapacagimiz web elementler burada bulundugu icin index ile gecis yaptik
 
-        WebElement drag= driver.findElement(By.xpath("//div[@id='draggable']"));
-       WebElement drop= driver.findElement(By.xpath("//div[@id='droppable']"));
+        WebElement drag = driver.findElement(By.xpath("//div[@id='draggable']"));
+        WebElement drop = driver.findElement(By.xpath("//div[@id='droppable']"));
 
-        Actions actions=new Actions(driver);
-        actions.dragAndDrop(drag,drop).perform();
+        Actions actions = new Actions(driver);
+        actions.clickAndHold(drag).moveToElement(drop).release().perform();
+    }
+
+    @Test
+    public void test02() {
+        driver.get("https://jqueryui.com/droppable/");
+        driver.switchTo().frame(0);//sayfada 1 tane iframe bulundugu icin calisma yapacagimiz web elementler burada bulundugu icin index ile gecis yaptik
+
+        WebElement drag = driver.findElement(By.xpath("//div[@id='draggable']"));
+        WebElement drop = driver.findElement(By.xpath("//div[@id='droppable']"));
+    }
+
+    @Test
+    public void test03() {
+        driver.get("https://jqueryui.com/droppable/");
+        driver.switchTo().frame(0);//sayfada 1 tane iframe bulundugu icin calisma yapacagimiz web elementler burada bulundugu icin index ile gecis yaptik
+
+        WebElement drag = driver.findElement(By.xpath("//div[@id='draggable']"));
+        WebElement drop = driver.findElement(By.xpath("//div[@id='droppable']"));
+
+        Actions actions = new Actions(driver);
+        actions.clickAndHold(drag).moveByOffset(187,50).release().perform();
+    }
+
+    @Test
+    public void test04() {
+
     }
 }

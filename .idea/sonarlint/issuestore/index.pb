@@ -17,3 +17,5 @@ q
 Asrc/test/java/day12_actions_faker_files/C01_ActionsClassWork.java,c\8\c8d530df7c530256132e22d4899e53d426c2253e
 q
 Asrc/test/java/day12_actions_faker_files/C02_ActionsClassWork.java,a\0\a00d92a752f3d28b553990358642c389e10891dc
+q
+Asrc/test/java/day12_actions_faker_files/C03_ActionsClassWork.java,5\3\531c585d2f7d9548b984e1e6e63f9d475d5b694c
