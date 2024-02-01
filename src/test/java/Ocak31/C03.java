@@ -22,7 +22,9 @@ public class C03 extends TestBase {
 
     @Test
     public void test01() {
-        driver.get("http://automationexercise.com");
-        Assertions.assertTrue(driver.findElement(By.xpath("//img[@alt='Website for automation practice']")).isDisplayed());
+        driver.get("http://facebook.com");
+        driver.findElement(By.xpath("//input[@name='email']")).sendKeys("yakupibrahimbas@hotmail.com");
+        driver.findElement(By.xpath("//input[@type='password']")).sendKeys("Yakup.1461");
+        driver.findElement(By.xpath("//button[@value='1']")).submit();
     }
 }

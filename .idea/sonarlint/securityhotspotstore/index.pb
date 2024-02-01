@@ -7,3 +7,9 @@ M
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 M
 src/test/java/Ocak31/C03.java,d\f\dff95f91e5eb2748d43c645804065241a31aca57
+~
+Nsrc/test/java/day08_relativeLocators_dropdown_testbase/Utilities/TestBase.java,c\9\c9d62e4a862781f73268cee6ffd6c070f47f128b
+L
+src/test/java/Subat1/C1.java,1\f\1f2c00c0021ffa52b65bfadae6bcff7aaaa3ce3b
+L
+src/test/java/Subat1/C2.java,2\3\23c482a6ee7c9ba1d079bd5e2319873322232db3
