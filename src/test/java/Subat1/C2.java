@@ -18,7 +18,7 @@ public class C2 extends TestBase {
        String actualAttributeValue= searchBox.getAttribute("class");
         String expectedAttributeValues="form-input";
         Assertions.assertEquals(expectedAttributeValues,actualAttributeValue);
-        driver.quit();
+
 
     }
 }

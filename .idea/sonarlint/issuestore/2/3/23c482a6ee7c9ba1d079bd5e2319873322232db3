@@ -1,7 +1,7 @@
 
 ¤
-java:S3577	"Rename class "C2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(…ÄÎ›ÿÿÿÿÿ8ş¬ÍœÖ1
+java:S3577	"Rename class "C2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(…ÄÎ›ÿÿÿÿÿ8â¿„¤Ö1
 @
-java:S5786"Remove this 'public' modifier.(’è“Ëıÿÿÿÿ8ÿ¬ÍœÖ1
+java:S5786"Remove this 'public' modifier.(’è“Ëıÿÿÿÿ8ã¿„¤Ö1
 @
-java:S5786	"Remove this 'public' modifier.(…ÄÎ›ÿÿÿÿÿ8ÿ¬ÍœÖ1
+java:S5786	"Remove this 'public' modifier.(…ÄÎ›ÿÿÿÿÿ8ã¿„¤Ö1

@@ -21,3 +21,7 @@ q
 Asrc/test/java/day12_actions_faker_files/C03_ActionsClassWork.java,5\3\531c585d2f7d9548b984e1e6e63f9d475d5b694c
 f
 6src/test/java/day12_actions_faker_files/C04_Faker.java,1\3\13ba6ffc289732b06a920acffd292178cd4eacc7
+L
+src/test/java/Subat1/C3.java,0\2\020dbb4759ba93343bed66168d31a465f01fd075
+L
+src/test/java/Subat1/C4.java,d\9\d98198953d869d5685e3ec7a761c8167e7dec59e
