@@ -29,3 +29,5 @@ c
 3src/test/java/day13_files_robot/C01_FileExists.java,3\9\399c74af7854ad5e0a19df55290999016d390801
 e
 5src/test/java/day13_files_robot/C02_FileDownload.java,c\a\ca7f0ccbb1ab9b5370257ff90808325c2c749c1b
+c
+3src/test/java/day13_files_robot/C03_UploadFile.java,4\3\43a168d7b02bb60497e8fc8e4f3741c37d734cf0
