@@ -31,3 +31,7 @@ e
 5src/test/java/day13_files_robot/C02_FileDownload.java,c\a\ca7f0ccbb1ab9b5370257ff90808325c2c749c1b
 c
 3src/test/java/day13_files_robot/C03_UploadFile.java,4\3\43a168d7b02bb60497e8fc8e4f3741c37d734cf0
+^
+.src/test/java/day13_files_robot/C04_Robot.java,b\3\b33383fd489dbef1e10703f7860a25d547e7855a
+|
+Lsrc/test/java/day10__windowHandle_basicAuthentication/C01_WindowsHandle.java,2\4\24d16af2a2f0127f5c7aa0d98c3622621bc7c992
