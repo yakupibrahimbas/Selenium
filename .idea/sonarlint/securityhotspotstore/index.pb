@@ -25,3 +25,5 @@ L
 src/test/java/Subat1/C3.java,0\2\020dbb4759ba93343bed66168d31a465f01fd075
 L
 src/test/java/Subat1/C4.java,d\9\d98198953d869d5685e3ec7a761c8167e7dec59e
+c
+3src/test/java/day13_files_robot/C01_FileExists.java,3\9\399c74af7854ad5e0a19df55290999016d390801
