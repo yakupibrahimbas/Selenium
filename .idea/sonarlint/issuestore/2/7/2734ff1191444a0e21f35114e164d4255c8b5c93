@@ -1,0 +1,19 @@
+
+O
+java:S2699"-Add at least one assertion to this test case.(’è“Ëıÿÿÿÿ8ñŠûÖ1
+O
+java:S2699?"-Add at least one assertion to this test case.(²œÿøøÿÿÿÿ8òŠûÖ1
+O
+java:S2699K"-Add at least one assertion to this test case.(©¶‹Êùÿÿÿÿ8 Ğ‹ûÖ1
+¤
+java:S3577"Rename class "C5" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ˆŠÈµıÿÿÿÿ8òŠûÖ1
+@
+java:S5786"Remove this 'public' modifier.(’è“Ëıÿÿÿÿ8óŠûÖ1
+@
+java:S5786?"Remove this 'public' modifier.(²œÿøøÿÿÿÿ8óŠûÖ1
+@
+java:S5786K"Remove this 'public' modifier.(©¶‹Êùÿÿÿÿ8ôŠûÖ1
+@
+java:S5786"Remove this 'public' modifier.(ˆŠÈµıÿÿÿÿ8¢Ğ‹ûÖ1
+A
+java:S2925P"$Remove this use of "Thread.sleep()".(¬Æ„°8öŠûÖ1

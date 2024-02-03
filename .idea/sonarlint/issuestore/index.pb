@@ -43,3 +43,7 @@ L
 src/test/java/Subat3/C3.java,f\a\fa05f3bfccfc0554dc5f2b72015678181f877f1f
 L
 src/test/java/Subat3/C4.java,a\c\ac1bdc46e8ab3f7ffb01d3b1dc8d5bb77d856c09
+L
+src/test/java/Subat3/C5.java,2\7\2734ff1191444a0e21f35114e164d4255c8b5c93
+€
+Psrc/test/java/day14_seleniumWaits_exceptions/C01_ExplicitWait_WebDriverWait.java,7\b\7bc66562426dc7f36ed7631ffb32e46b04555516
