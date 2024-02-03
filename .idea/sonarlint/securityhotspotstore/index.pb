@@ -39,3 +39,7 @@ L
 src/test/java/Subat3/C1.java,0\1\013e37e52463e00b9b6711202fc07657ef3ee3a6
 L
 src/test/java/Subat3/C2.java,b\c\bc08606362ad35824ac81712f7659c0b543efcc6
+L
+src/test/java/Subat3/C3.java,f\a\fa05f3bfccfc0554dc5f2b72015678181f877f1f
+L
+src/test/java/Subat3/C4.java,a\c\ac1bdc46e8ab3f7ffb01d3b1dc8d5bb77d856c09
