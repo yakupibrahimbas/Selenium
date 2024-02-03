@@ -47,3 +47,5 @@ L
 src/test/java/Subat3/C5.java,2\7\2734ff1191444a0e21f35114e164d4255c8b5c93
 €
 Psrc/test/java/day14_seleniumWaits_exceptions/C01_ExplicitWait_WebDriverWait.java,7\b\7bc66562426dc7f36ed7631ffb32e46b04555516
+}
+Msrc/test/java/day14_seleniumWaits_exceptions/C02_ExplicitWait_FluentWait.java,c\f\cf986a8858974611027be2e3f1fa9a65197ab947
