@@ -49,3 +49,5 @@ L
 Psrc/test/java/day14_seleniumWaits_exceptions/C01_ExplicitWait_WebDriverWait.java,7\b\7bc66562426dc7f36ed7631ffb32e46b04555516
 }
 Msrc/test/java/day14_seleniumWaits_exceptions/C02_ExplicitWait_FluentWait.java,c\f\cf986a8858974611027be2e3f1fa9a65197ab947
+|
+Lsrc/test/java/day14_seleniumWaits_exceptions/C03_NoSuchelementException.java,3\f\3ff7b3b8fdaeb11c695a34f97750ba5b72533295
