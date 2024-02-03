@@ -35,3 +35,7 @@ c
 .src/test/java/day13_files_robot/C04_Robot.java,b\3\b33383fd489dbef1e10703f7860a25d547e7855a
 |
 Lsrc/test/java/day10__windowHandle_basicAuthentication/C01_WindowsHandle.java,2\4\24d16af2a2f0127f5c7aa0d98c3622621bc7c992
+L
+src/test/java/Subat3/C1.java,0\1\013e37e52463e00b9b6711202fc07657ef3ee3a6
+L
+src/test/java/Subat3/C2.java,b\c\bc08606362ad35824ac81712f7659c0b543efcc6
