@@ -53,3 +53,5 @@ Msrc/test/java/day14_seleniumWaits_exceptions/C02_ExplicitWait_FluentWait.java,
 Lsrc/test/java/day14_seleniumWaits_exceptions/C03_NoSuchelementException.java,3\f\3ff7b3b8fdaeb11c695a34f97750ba5b72533295
 w
 Gsrc/test/java/day14_seleniumWaits_exceptions/C04_TimesOutException.java,8\2\8282748c80334e6a7c6665d757e605901e601c4e
+z
+Jsrc/test/java/day14_seleniumWaits_exceptions/C05_NullPointerException.java,6\4\641c848222659ba85a3de6e125988155a0b0aa4b
