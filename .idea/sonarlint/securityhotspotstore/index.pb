@@ -63,3 +63,5 @@ L
 src/test/java/Subat4/C3.java,2\e\2ea2be83263f348f8540a330a1fe068c99749e6d
 L
 src/test/java/Subat4/C4.java,7\0\70eef22e9ff0f59deb239525b1e7b629f1b124ba
+L
+src/test/java/Subat4/C5.java,6\a\6a6e49c121f63b99637e6386b40e1eae3437d5ee
