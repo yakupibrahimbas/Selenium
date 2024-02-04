@@ -55,3 +55,5 @@ w
 Gsrc/test/java/day14_seleniumWaits_exceptions/C04_TimesOutException.java,8\2\8282748c80334e6a7c6665d757e605901e601c4e
 z
 Jsrc/test/java/day14_seleniumWaits_exceptions/C05_NullPointerException.java,6\4\641c848222659ba85a3de6e125988155a0b0aa4b
+L
+src/test/java/Subat4/C1.java,f\c\fc91ea16a03b26509e194155a6573c95a0b6d9eb
