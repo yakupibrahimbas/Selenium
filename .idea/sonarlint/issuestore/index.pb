@@ -73,3 +73,5 @@ L
 src/test/java/Subat5/C1.java,0\2\02cb94c29eb5746a84bf485f6c7e6170d6c1369f
 Å
 Qsrc/test/java/day15_exception_screenshots/C01_StaleElementReferenceException.java,3\e\3e2b31e5788af7ef97ebc40ef32507140640eefa
+m
+=src/test/java/day15_exception_screenshots/C02_ScreenShot.java,8\d\8d52279421e6e8533263010aefe7421320d9a2d9

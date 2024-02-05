@@ -4,12 +4,14 @@ import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.Select;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.time.Duration;
 
 import org.junit.jupiter.api.AfterEach;
@@ -23,6 +25,8 @@ import java.awt.*;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
 import java.time.Duration;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 public abstract class TestBase {
 
@@ -92,6 +96,17 @@ public abstract class TestBase {
             // Sonraki işlemler için ek 3 saniye bekler.
         }catch (Exception ignored){
             // Herhangi bir hata oluşursa, bu hata yoksayılır.
+        }
+    }
+    //screenshot
+    public void screenShot(){
+        String date= DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format(LocalDateTime.now());
+        String dosyaYolu="src\\test\\java\\screenShots\\screenShot"+date+".jpeg";
+        TakesScreenshot ts= (TakesScreenshot) driver;
+        try {
+            Files.write(Paths.get(dosyaYolu),ts.getScreenshotAs(OutputType.BYTES));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
     }
 
