@@ -109,7 +109,16 @@ public abstract class TestBase {
             throw new RuntimeException(e);
         }
     }
-
+    //webelement screenshot
+        public void screenShotOfWebElement(WebElement webElement){
+        String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format( LocalDateTime.now());
+        String dosyaYolu ="src\\test\\java\\screenShots\\webElementsSS"+date+".png";
+            try {
+                Files.write(Paths.get(dosyaYolu), webElement.getScreenshotAs(OutputType.BYTES));
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
 }
 
 
