@@ -79,3 +79,5 @@ b
 2src/test/java/day15_exception_screenshots/C03.java,1\9\199a21b65a48f388e2621a2015e9a7b7229f9bc9
 w
 Gsrc/test/java/day15_exception_screenshots/C03_WebElementScreenShot.java,f\a\fa915e7de1a1d13ab3ec344f2b90cc6b6e6553ea
+l
+<src/test/java/day15_exception_screenshots/C04_ClassWork.java,7\e\7e8707098d849db428172b168efd798f2c47922b
