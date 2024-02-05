@@ -69,3 +69,7 @@ L
 src/test/java/Subat4/C6.java,9\9\99c7b2962c87e5500438fc13eb305c1fb880f7bd
 L
 src/test/java/Subat4/C7.java,4\7\4736dcfed39482ab937c4580c3808b1a3b86fe6b
+L
+src/test/java/Subat5/C1.java,0\2\02cb94c29eb5746a84bf485f6c7e6170d6c1369f
+Å
+Qsrc/test/java/day15_exception_screenshots/C01_StaleElementReferenceException.java,3\e\3e2b31e5788af7ef97ebc40ef32507140640eefa
