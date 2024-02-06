@@ -95,3 +95,9 @@ L
 src/test/java/Subat5/C8.java,3\6\360b8ba088c659aab02f185f23aeb8091f505ac7
 L
 src/test/java/Subat5/C9.java,3\3\33686d1741956eef768643c752ded8d9bf2440e5
+f
+6src/test/java/day16_extentReport/C01_ExtentReport.java,e\a\ea79a7a1a6f53328c5db5c8e1aa15cb536d1c73a
+j
+:src/test/java/day16_extentReport/C02_ExtentReportTest.java,e\b\eb6bae1e3ca5bd3e66c3dd641f33c028d824eb35
+j
+:src/test/java/day16_extentReport/C03_ExtentReportTest.java,f\5\f535eb9a73f4f00115e3f364701eb9f75d0ea0c0
