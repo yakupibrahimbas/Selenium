@@ -101,3 +101,5 @@ j
 :src/test/java/day16_extentReport/C02_ExtentReportTest.java,e\b\eb6bae1e3ca5bd3e66c3dd641f33c028d824eb35
 j
 :src/test/java/day16_extentReport/C03_ExtentReportTest.java,f\5\f535eb9a73f4f00115e3f364701eb9f75d0ea0c0
+L
+src/test/java/Subat6/C1.java,7\8\78c702b470917dc028e9e4d56a22e3f2b84d48c2

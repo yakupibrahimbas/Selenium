@@ -22,11 +22,13 @@ public class C03_ExtentReportTest extends TestBase {
         WebElement searchBox = driver.findElement(By.cssSelector("#twotabsearchtextbox"));
         searchBox.sendKeys("selenium", Keys.ENTER);
         extentTest.info("Arama kutusunda selenium yazilarak aratildi");
-
+        screenShot();
 
         //Sayfa basliginin selenium icerdigini doğrulayalim
         Assertions.assertTrue(driver.getTitle().contains("selenium"));
         extentTest.pass("Sayfa basliginin selenium icerdigi dogrulandi");
+        screenShot();
+
 
         extentReports.flush();
 

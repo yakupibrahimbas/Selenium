@@ -150,6 +150,7 @@ public abstract class TestBase {
         TakesScreenshot ts = (TakesScreenshot) driver;
         try {
             Files.write(Paths.get(dosyaYolu),ts.getScreenshotAs(OutputType.BYTES));
+            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir")+"\\"+dosyaYolu);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -161,6 +162,7 @@ public abstract class TestBase {
         String dosyaYolu ="src\\test\\java\\screenShots\\webElementsSS"+date+".png";
         try {
             Files.write(Paths.get(dosyaYolu),webElement.getScreenshotAs(OutputType.BYTES));
+            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir")+"\\"+dosyaYolu);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
