@@ -105,3 +105,9 @@ L
 src/test/java/Subat6/C1.java,7\8\78c702b470917dc028e9e4d56a22e3f2b84d48c2
 L
 src/test/java/Subat6/C2.java,c\5\c563d6fcb46d9edd16c576429671b4f1c93901a9
+L
+src/test/java/Subat7/C1.java,9\2\92ba4e83be0219c1ea3b585efcdd4c201ea41932
+V
+&src/test/java/Subat7/C01_Register.java,9\e\9e8dc4e6c6b7b29f67fafb013f1a1b8a3665266c
+W
+'src/test/java/Subat7/C02_LoginTest.java,1\5\153e0a1d0221fbd2d8ca597c073e97159c4c3666
