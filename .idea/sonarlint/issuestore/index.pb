@@ -111,3 +111,7 @@ V
 +src/test/java/Subat7/C03_WindowsHandle.java,1\b\1b55ec036760d66a84b87d2a8e8eb336fb712276
 W
 'src/test/java/Subat7/C02_loginTest.java,2\b\2b191366bb67c98fb260e91a8dc6ec2a96f509d7
+L
+src/test/java/Subat7/C4.java,d\d\ddc3479fb2623b9aa83d25cad343123e68581bc6
+L
+src/test/java/Subat7/C5.java,a\c\ac4433583b0110be581dcdd4e3c201c8cc83f546
