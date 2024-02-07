@@ -119,3 +119,7 @@ L
 src/test/java/Subat7/C6.java,e\f\ef2088560bfefff29e0f2ffc1aca098b4a6b4365
 L
 src/test/java/Subat7/C7.java,2\d\2df02b194beda23ce11be10b315bf88df51fc1ab
+L
+src/test/java/Subat7/C8.java,6\5\655e5e997f609c1afcd2030d9850b91b93981013
+L
+src/test/java/Subat7/C9.java,0\2\0291dae027afc5edababcdcb4191fa3a105f0838
