@@ -115,3 +115,5 @@ L
 src/test/java/Subat7/C4.java,d\d\ddc3479fb2623b9aa83d25cad343123e68581bc6
 L
 src/test/java/Subat7/C5.java,a\c\ac4433583b0110be581dcdd4e3c201c8cc83f546
+L
+src/test/java/Subat7/C6.java,e\f\ef2088560bfefff29e0f2ffc1aca098b4a6b4365
