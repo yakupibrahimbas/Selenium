@@ -133,3 +133,5 @@ L
 src/test/java/Subat8/C4.java,f\8\f8c6d6f36a2aa3aa6767dcb3ce1359f6dc1d529d
 L
 src/test/java/Subat9/C1.java,5\9\593fadaa98d15fd71c7f14c155fa83beb6b12183
+L
+src/test/java/Subat9/C2.java,3\7\375ed4800e86d6995efb0ca8fe68adb1c79f6cbb
