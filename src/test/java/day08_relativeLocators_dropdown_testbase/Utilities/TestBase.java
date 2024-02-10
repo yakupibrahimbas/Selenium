@@ -168,4 +168,14 @@ public abstract class TestBase {
         }
     }
 
+    //JSExecutor click methodu
+    public void jsClick(WebElement element){
+        try {
+            element.click();
+        }catch (Exception e){
+            JavascriptExecutor jse=(JavascriptExecutor) driver;
+            jse.executeScript("arguments[0].click();",element);
+        }
+
+    }
 }
