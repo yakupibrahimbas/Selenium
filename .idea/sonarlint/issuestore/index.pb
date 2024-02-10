@@ -145,3 +145,5 @@ M
 src/test/java/Subat10/C1.java,1\0\10c88f907fbe3fed7f3b8b0092e3987eccc5430a
 M
 src/test/java/Subat10/C2.java,6\b\6b6904d0579a66e22068d9ee1aa6fea29f709f0f
+M
+src/test/java/Subat10/C3.java,3\b\3be2a273db79ffaad24b95a9b169126858c32272
