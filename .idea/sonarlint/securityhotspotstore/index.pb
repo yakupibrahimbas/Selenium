@@ -147,3 +147,5 @@ M
 src/test/java/Subat10/C2.java,6\b\6b6904d0579a66e22068d9ee1aa6fea29f709f0f
 M
 src/test/java/Subat10/C3.java,3\b\3be2a273db79ffaad24b95a9b169126858c32272
+k
+;src/test/java/day18_excel_jsexecutor/C01_ReadExcelTest.java,e\7\e7b337cdeab302cd837a0236b2a4d59e3b2028cd
