@@ -143,3 +143,5 @@ c
 3src/test/java/day17_webtables_excell/C03_Excel.java,a\1\a16db3dfb83b9e0cf4c414f0cc840417e87ad085
 M
 src/test/java/Subat10/C1.java,1\0\10c88f907fbe3fed7f3b8b0092e3987eccc5430a
+M
+src/test/java/Subat10/C2.java,6\b\6b6904d0579a66e22068d9ee1aa6fea29f709f0f
