@@ -159,3 +159,5 @@ n
 >src/test/java/day18_excel_jsexecutor/C05_JSExecutorScroll.java,6\2\62fd0f1d39c85a2e20eb60cb8996aff17d5a0ef9
 M
 src/test/java/Subat11/C1.java,9\2\92960712f81d2be1b29393378a4859be7104200d
+M
+src/test/java/Subat11/C2.java,c\7\c72ca0ae9f7cfa9b6c21c689b05f5398ec360dbc
