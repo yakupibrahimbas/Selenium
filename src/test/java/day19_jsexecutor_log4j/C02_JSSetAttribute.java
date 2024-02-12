@@ -44,11 +44,25 @@ public class C02_JSSetAttribute extends TestBase {
             */
     @Test
     public void test04() {
+        //amazona gidelim
         driver.get("https://amazon.com");
         waitForSecond(3);
+
+            /*
+       <input type="text" id="twotabsearchtextbox" value="" name="field-keywords" autocomplete="off"
+       placeholder="Search Amazon" class="nav-input nav-progressive-attribute" dir="auto" tabindex="0"
+       aria-label="Search Amazon" spellcheck="false">
+        */
+
+
         //arama kutusunun id attribute degerini ismimiz ile degistirelim
         WebElement searchBox = driver.findElement(By.cssSelector("#twotabsearchtextbox"));
-        JavascriptExecutor js= (JavascriptExecutor) driver;
-        js.executeScript("arguments[0].setAttribute('id','yakup')",searchBox);
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].setAttribute('id','mehmet')",searchBox);
+
+        waitForSecond(2);
+        //degistirmis oldugumuz id ile arama kutusunu locate ederek java aratalim
+        driver.findElement(By.id("mehmet")).sendKeys("java");
+
     }
 }
