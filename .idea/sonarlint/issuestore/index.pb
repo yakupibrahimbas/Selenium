@@ -163,3 +163,7 @@ M
 src/test/java/Subat11/C2.java,c\7\c72ca0ae9f7cfa9b6c21c689b05f5398ec360dbc
 M
 src/test/java/Subat11/C3.java,9\0\900ebff10e3902821b7ebb294d12b830a00f1fc7
+f
+6src/test/java/day19_jsexecutor_log4j/C01_JsScroll.java,5\f\5fba7234f2dcf217337b402577e926311354a9e6
+l
+<src/test/java/day19_jsexecutor_log4j/C02_JSSetAttribute.java,d\b\dba7f4c5556c16659f50ed2bef4329de6ca272ef

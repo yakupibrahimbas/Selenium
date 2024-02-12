@@ -33,11 +33,11 @@ import java.time.format.DateTimeFormatter;
 
 public abstract class TestBase {
     protected ExtentReports extentReports;
-    protected  ExtentHtmlReporter extentHtmlReporter;
+    protected ExtentHtmlReporter extentHtmlReporter;
     protected ExtentTest extentTest;
 
     //ExtentReport
-    public void createExtentReport(String testName){
+    public void createExtentReport(String testName) {
 
         //bu object i raporlari olusturmak ve yonetmek icin kullanacağız
         extentReports = new ExtentReports();
@@ -49,7 +49,7 @@ public abstract class TestBase {
 
          */
         String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format(LocalDateTime.now());
-        String path = "target/extentReport/"+date+"htmlReport.html";
+        String path = "target/extentReport/" + date + "htmlReport.html";
         extentHtmlReporter = new ExtentHtmlReporter(path);
 
         //ExtentReports a Html raporlayiciyi ekler
@@ -63,12 +63,12 @@ public abstract class TestBase {
         extentHtmlReporter.config().setReportName("My Extent Report");
 
         //Raporun sistem bilgi bolumune cesitli istedigimiz bilgileri ekleriz
-        extentReports.setSystemInfo("Environment","QA");
-        extentReports.setSystemInfo("Browser","Chrome");
-        extentReports.setSystemInfo("Test Automation Engineer","Ali");
+        extentReports.setSystemInfo("Environment", "QA");
+        extentReports.setSystemInfo("Browser", "Chrome");
+        extentReports.setSystemInfo("Test Automation Engineer", "Ali");
 
         //Amazon test adinda yeni bir test olusturur ve bu teste TestSteps aciklamasini ekler
-        extentTest=extentReports.createTest(testName,"Test Steps");
+        extentTest = extentReports.createTest(testName, "Test Steps");
         //============= rapor öncesi sablon ayarlamalalir yapmalayiz
     }
 
@@ -88,40 +88,39 @@ public abstract class TestBase {
     }
 
     //Hard wait
-    public void waitForSecond(int second){
+    public void waitForSecond(int second) {
         try {
-            Thread.sleep(second*1000);
+            Thread.sleep(second * 1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
     }
 
     //DDM den visible text ile secim
-    public  void  selectVisibleText(WebElement ddm,String option){
+    public void selectVisibleText(WebElement ddm, String option) {
         Select select = new Select(ddm);
         select.selectByVisibleText(option);
     }
 
     //DDM den index ile secim
-    public void selectIndex(WebElement ddm,int idx){
+    public void selectIndex(WebElement ddm, int idx) {
         Select select = new Select(ddm);
         select.selectByIndex(idx);
     }
 
     //index ile windowa gecis yapma
-    public void switchToWindow(int index){
+    public void switchToWindow(int index) {
         driver.switchTo().window(driver.getWindowHandles().toArray()[index].toString());
     }
 
 
-
     //File Upload Robot Class
-    public void uploadFilePath(String dosyaYolu){
-        try{
+    public void uploadFilePath(String dosyaYolu) {
+        try {
             waitForSecond(3); // 3 saniye bekletir. Bu, kodun başka işlemler için hazır olmasını sağlar.
             StringSelection stringSelection = new StringSelection(dosyaYolu);
             //Verilen Dosya yolunu bir StringSelection objectine dönüştürürüz
-            Toolkit.getDefaultToolkit().getSystemClipboard().setContents(stringSelection,null);
+            Toolkit.getDefaultToolkit().getSystemClipboard().setContents(stringSelection, null);
             //verilen stringSelection'i (bu durumda dosya yolu), daha sonra başka bir yere yapıştırmak üzere sistem panosuna kopyalamaktır.
             Robot robot = new Robot();
             // Robot sınıfından bir object olustururuz, Bu class javadan gelir ve klavye ve mouse etkileşimlerini simüle eder.
@@ -138,44 +137,68 @@ public abstract class TestBase {
             // ENTER tuşuna basarak yapıştırma işlemini onaylar veya diyalog penceresini kapatır.
             robot.delay(3000);
             // Sonraki işlemler için ek 3 saniye bekler.
-        }catch (Exception ignored){
+        } catch (Exception ignored) {
             // Herhangi bir hata oluşursa, bu hata yoksayılır.
         }
     }
 
     //screenshot
-    public void screenShot(){
-        String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format( LocalDateTime.now());
-        String dosyaYolu ="src\\test\\java\\screenShots\\screenShot"+date+".jpeg";
+    public void screenShot() {
+        String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format(LocalDateTime.now());
+        String dosyaYolu = "src\\test\\java\\screenShots\\screenShot" + date + ".jpeg";
         TakesScreenshot ts = (TakesScreenshot) driver;
         try {
-            Files.write(Paths.get(dosyaYolu),ts.getScreenshotAs(OutputType.BYTES));
-            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir")+"\\"+dosyaYolu);
+            Files.write(Paths.get(dosyaYolu), ts.getScreenshotAs(OutputType.BYTES));
+            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir") + "\\" + dosyaYolu);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
     //webelement screenshot
-    public void screenShotOfWebElement( WebElement webElement){
-        String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format( LocalDateTime.now());
-        String dosyaYolu ="src\\test\\java\\screenShots\\webElementsSS"+date+".png";
+    public void screenShotOfWebElement(WebElement webElement) {
+        String date = DateTimeFormatter.ofPattern("ddMMyyyy_HHmmss").format(LocalDateTime.now());
+        String dosyaYolu = "src\\test\\java\\screenShots\\webElementsSS" + date + ".png";
         try {
-            Files.write(Paths.get(dosyaYolu),webElement.getScreenshotAs(OutputType.BYTES));
-            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir")+"\\"+dosyaYolu);
+            Files.write(Paths.get(dosyaYolu), webElement.getScreenshotAs(OutputType.BYTES));
+            extentTest.addScreenCaptureFromPath(System.getProperty("user.dir") + "\\" + dosyaYolu);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
     //JSExecutor click methodu
-    public void jsClick(WebElement element){
+    public void jsClick(WebElement element) {
         try {
             element.click();
-        }catch (Exception e){
-            JavascriptExecutor jse=(JavascriptExecutor) driver;
-            jse.executeScript("arguments[0].click();",element);
+        } catch (Exception e) {
+            JavascriptExecutor jse = (JavascriptExecutor) driver;
+            jse.executeScript("arguments[0].click();", element);
         }
 
+    }
+
+    //JSExecutor Scroll Webelement Method
+    public void jsScroll(WebElement webElement) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView(true)", webElement);
+    }
+
+    //JSExecutor scrollEnd
+    public void jsScrollEnd() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
+
+    }
+
+    //JSExecutor scrollHome
+    public void jsScrollHome() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollTo(0,-document.body.scrollHeight)");
+    }
+    //JSExecutor SendKeys
+    public void jsSendKeys(WebElement element,String value){
+        JavascriptExecutor js= (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].value='"+value+"'",element);
     }
 }
