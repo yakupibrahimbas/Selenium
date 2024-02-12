@@ -2,6 +2,7 @@ package day19_jsexecutor_log4j;
 
 import day08_relativeLocators_dropdown_testbase.Utilities.TestBase;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -38,4 +39,11 @@ public class C03_JsLocate extends TestBase {
 
     }
 
+    @Test
+    public void test02() {
+        driver.get("https://techproeducation.com");
+       WebElement eventsText= driver.findElement(By.xpath("//h2[.='Events']"));
+       JavascriptExecutor js=(JavascriptExecutor) driver;
+       js.executeScript("arguments[0].textContent='BATCH210'",eventsText);
+    }
 }

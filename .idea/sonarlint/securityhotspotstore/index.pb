@@ -169,3 +169,11 @@ l
 <src/test/java/day19_jsexecutor_log4j/C02_JSSetAttribute.java,d\b\dba7f4c5556c16659f50ed2bef4329de6ca272ef
 f
 6src/test/java/day19_jsexecutor_log4j/C03_JsLocate.java,b\b\bb4d62ac3e5287deae9ecdecc1c9132cc54caed1
+c
+3src/test/java/day19_jsexecutor_log4j/C04_Log4j.java,b\3\b37379b6d0cdb0a9a3e4b436d303d4f052051deb
+]
+-src/test/java/day19_jsexecutor_log4j/C05.java,4\5\45182a3c94be1de7142d0b49806f830d9adecc06
+]
+-src/test/java/day19_jsexecutor_log4j/C06.java,8\6\86a96bd3384dc430a73c63253be19191431313a3
+]
+-src/test/java/day19_jsexecutor_log4j/C07.java,4\f\4f08e8d212ae0a90e122e25fe4058b56edd4a122
