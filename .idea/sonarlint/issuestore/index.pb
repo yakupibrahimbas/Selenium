@@ -161,3 +161,5 @@ M
 src/test/java/Subat11/C1.java,9\2\92960712f81d2be1b29393378a4859be7104200d
 M
 src/test/java/Subat11/C2.java,c\7\c72ca0ae9f7cfa9b6c21c689b05f5398ec360dbc
+M
+src/test/java/Subat11/C3.java,9\0\900ebff10e3902821b7ebb294d12b830a00f1fc7
