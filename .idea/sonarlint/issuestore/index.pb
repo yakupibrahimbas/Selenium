@@ -177,3 +177,7 @@ c
 -src/test/java/day19_jsexecutor_log4j/C06.java,8\6\86a96bd3384dc430a73c63253be19191431313a3
 ]
 -src/test/java/day19_jsexecutor_log4j/C07.java,4\f\4f08e8d212ae0a90e122e25fe4058b56edd4a122
+M
+src/test/java/Subat13/C1.java,8\7\8759a6040cfb9a7a09732cc936791c751f5aea47
+M
+src/test/java/Subat13/C2.java,a\7\a7df93abd0bbc43c88d883da65c7a3c208f9bb48
