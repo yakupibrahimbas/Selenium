@@ -187,3 +187,7 @@ N
 src/test/java/Subat14/C02.java,a\4\a4cba918779499503367e7fef8cb77a5cbccaa19
 N
 src/test/java/Subat14/C03.java,f\a\faf7598410ca46ed151c66f20dffedd1a9ee48e3
+N
+src/test/java/Subat14/C04.java,f\7\f78000eb1bdc4b61b4c15db8a77cdd3099d9df6f
+N
+src/test/java/Subat14/C05.java,3\a\3a89ab7055fa0274a77ff761b9811d5ffc4cb636
