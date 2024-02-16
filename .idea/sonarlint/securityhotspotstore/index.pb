@@ -195,3 +195,9 @@ M
 src/test/java/Subat14/C6.java,f\e\fe0cdebaf4ef0db4513b71657df49f03dc38e75b
 M
 src/test/java/Subat14/C7.java,c\e\ce278ba5a4941a0835a597896da4912ce9c0aabd
+M
+src/test/java/Subat16/C1.java,2\0\207de56ef3fb2a2e7b4b6496ebc011ae277ff4ae
+M
+src/test/java/Subat16/C2.java,b\9\b94189985d03212d0c2e99cdc1ac34b2edaf1acc
+M
+src/test/java/Subat16/C3.java,3\5\3587edac21cd9ecb292b116ed72ef233b1ba82fa
