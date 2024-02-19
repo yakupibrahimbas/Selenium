@@ -215,3 +215,9 @@ N
 src/test/java/Subat19/C03.java,b\d\bd38ace8ce3aeb5e85f6ee7087c33430d8431c24
 M
 src/test/java/Subat19/C4.java,c\5\c5d93f82abf6d24a16b0777a77efebe3bf8174a0
+M
+src/test/java/Subat19/C5.java,5\1\51693734bb2eb43a970352dd253f6bfa4dad2d97
+M
+src/test/java/Subat19/C6.java,3\5\35c4ee5d679be38f9e1d3498cae21b09f3bc3285
+M
+src/test/java/Subat19/C7.java,4\1\411557a104ec132adb818567605a101450820afb
