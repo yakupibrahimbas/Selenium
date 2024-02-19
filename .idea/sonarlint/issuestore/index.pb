@@ -207,3 +207,9 @@ M
 src/test/java/Subat18/C1.java,d\e\de0876810500ecd3b80cb30ed48ba52f3970dd65
 N
 src/test/java/Subat18/CC2.java,3\5\356a05364236e3b631289495cb04a954618c785b
+M
+src/test/java/Subat19/C1.java,9\7\9752cdfe86ac0aba53819cd4e856d1d80ba4e964
+M
+src/test/java/Subat19/C2.java,6\d\6dbcef4716d22577d6e0ca5fa149f3dd8872f6da
+N
+src/test/java/Subat19/C03.java,b\d\bd38ace8ce3aeb5e85f6ee7087c33430d8431c24
