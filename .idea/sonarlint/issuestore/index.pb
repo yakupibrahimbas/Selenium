@@ -221,3 +221,11 @@ M
 src/test/java/Subat19/C6.java,3\5\35c4ee5d679be38f9e1d3498cae21b09f3bc3285
 M
 src/test/java/Subat19/C7.java,4\1\411557a104ec132adb818567605a101450820afb
+M
+src/test/java/Subat20/C1.java,a\d\adc9d90842249b5732fbbf783b5681db9f94207e
+M
+src/test/java/Subat20/C2.java,f\8\f83361aa1063b825802794522d8de0aec99a3fe0
+M
+src/test/java/Subat20/C3.java,e\1\e160f632232c53b7bff017397413ca5023e70329
+M
+src/test/java/Subat20/C4.java,2\8\28210c4dbee47c73f3d1a3c9127fea4d8e6a9e77
