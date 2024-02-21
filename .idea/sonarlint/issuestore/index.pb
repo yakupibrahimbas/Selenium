@@ -231,3 +231,7 @@ M
 src/test/java/Subat20/C4.java,2\8\28210c4dbee47c73f3d1a3c9127fea4d8e6a9e77
 M
 src/test/java/Subat21/C1.java,a\a\aa822e970c95f8a7bfdadf0dccb81322d2407e0c
+M
+src/test/java/Subat21/C2.java,7\e\7ecc983b46914296363f11303e92aed679a2ff53
+M
+src/test/java/Subat21/C3.java,e\d\edeb32df9ae05c4b3144a6a87e74778fe3d3ba50
