@@ -243,3 +243,9 @@ M
 src/test/java/Subat22/C3.java,9\6\965fb2ec5599cbc1ab0dd661b1268331f3aa3132
 M
 src/test/java/Subat22/C4.java,e\1\e13690b929e12be771e7bc1488d4eb74671e0a7d
+M
+src/test/java/Subat22/C5.java,6\1\61189e2874fda94599a63608300446acfedbb06b
+M
+src/test/java/Subat22/C6.java,7\1\7109fc092295e769bc0d89e52fdec5132f5807ef
+d
+4src/test/java/day11_cookies_actions/C02_Actions.java,4\1\4182e0289f9d6face1cf6a602955c3cbc7bd85eb
