@@ -1,0 +1,11 @@
+
+O
+java:S2699"-Add at least one assertion to this test case.(’è“Ëıÿÿÿÿ8á•ë‘İ1
+¤
+java:S3577
+"Rename class "C4" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(¥‰Îúÿÿÿÿ8å•ë‘İ1
+@
+java:S5786"Remove this 'public' modifier.(’è“Ëıÿÿÿÿ8å•ë‘İ1
+@
+java:S5786
+"Remove this 'public' modifier.(¥‰Îúÿÿÿÿ8æ•ë‘İ1

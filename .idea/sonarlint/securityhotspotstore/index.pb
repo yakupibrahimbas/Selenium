@@ -239,3 +239,7 @@ M
 src/test/java/Subat22/C1.java,9\f\9f24372068281ceac772f001e6cbc07f8536b99f
 M
 src/test/java/Subat22/C2.java,a\1\a13f2a2f728894f73b4adf329d543e17281bd068
+M
+src/test/java/Subat22/C3.java,9\6\965fb2ec5599cbc1ab0dd661b1268331f3aa3132
+M
+src/test/java/Subat22/C4.java,e\1\e13690b929e12be771e7bc1488d4eb74671e0a7d
