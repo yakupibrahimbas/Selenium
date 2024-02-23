@@ -271,3 +271,15 @@ N
 src/test/java/Subat23/C10.java,7\0\70f13d2f320c29b382a7f10143f05fb870c4670b
 N
 src/test/java/Subat23/C11.java,9\6\9650d7af058ea5ad2dea3678a5c2f0e9e14eac51
+N
+src/test/java/Subat23/C12.java,5\4\5425542679e6248acd35ee6664196aed3ecde2ad
+N
+src/test/java/Subat23/C13.java,e\e\ee106247ac8b4e6560dbf17ca8b0a16baa888dd1
+N
+src/test/java/Subat23/C14.java,0\6\06a5253a82e62561d6b61eb7b547e3ff1e5bceb3
+N
+src/test/java/Subat23/C15.java,e\3\e3a55590995ca99bea90d6538e80da345142f817
+N
+src/test/java/Subat23/C16.java,9\2\92f6d16bd2ea13d43dcc0efff4dc1970e50bb5d4
+N
+src/test/java/Subat23/C17.java,4\4\447274cf3c65ab8a1e2b03ebdf2efaeac4faa40f
