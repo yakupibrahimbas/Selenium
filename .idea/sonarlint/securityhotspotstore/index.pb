@@ -265,3 +265,9 @@ M
 src/test/java/Subat23/C7.java,c\9\c93da31002bbb500480f0c783b09d9cecb45bd8e
 M
 src/test/java/Subat23/C8.java,0\f\0fc2344b151d318169b57904110fc846f74eb4bc
+M
+src/test/java/Subat23/C9.java,b\9\b90e21db807be9557f85183d9f77cd693085d959
+N
+src/test/java/Subat23/C10.java,7\0\70f13d2f320c29b382a7f10143f05fb870c4670b
+N
+src/test/java/Subat23/C11.java,9\6\9650d7af058ea5ad2dea3678a5c2f0e9e14eac51
