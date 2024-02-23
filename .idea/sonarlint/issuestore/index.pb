@@ -249,3 +249,7 @@ M
 src/test/java/Subat22/C6.java,7\1\7109fc092295e769bc0d89e52fdec5132f5807ef
 d
 4src/test/java/day11_cookies_actions/C02_Actions.java,4\1\4182e0289f9d6face1cf6a602955c3cbc7bd85eb
+M
+src/test/java/Subat23/C1.java,2\6\26097bd6b2d3a12e3f365fb9eb7cf7f752a04b09
+M
+src/test/java/Subat23/C2.java,1\5\15d08888cfbcd43fa75d976f1e5bb888fae399d3
