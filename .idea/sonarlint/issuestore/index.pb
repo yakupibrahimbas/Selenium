@@ -299,3 +299,9 @@ M
 src/test/java/Subat24/C7.java,d\0\d05e216bca7ba69ab8d4ea3c6d40d76b952960b6
 M
 src/test/java/Subat24/C8.java,5\5\556fe768dad25108507045d286ab36d88251f71e
+M
+src/test/java/Subat24/C9.java,b\5\b52ecaada69df777faff022ea9d6b4b9d2c64d97
+N
+src/test/java/Subat24/C10.java,0\b\0b5cc5f271a3a55d63f7f245719aea1eab43ac77
+N
+src/test/java/Subat24/C11.java,f\3\f305cd43cb8b5bd9fee20798fccb1123e026a625
