@@ -311,3 +311,9 @@ M
 src/test/java/Subat25/C1.java,a\1\a1c1b3a2507d17c13e51444f77583ad5255fea08
 M
 src/test/java/Subat25/C2.java,0\5\05d6ebff48000fa3958c817c80d955238a64b992
+M
+src/test/java/Subat25/C3.java,a\2\a2fb98af3fc20dd86a06aa77efc18f375d20b9ef
+M
+src/test/java/Subat25/C4.java,0\6\060abe0a91225d3586884c045b0741b3fcabc24e
+M
+src/test/java/Subat25/C5.java,0\9\097426078dcbe5732936351340db6783df30b293
