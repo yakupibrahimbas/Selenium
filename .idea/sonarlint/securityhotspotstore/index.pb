@@ -329,3 +329,7 @@ N
 src/test/java/Subat25/C10.java,9\6\961ac1a75e143954073f1f43b5db37bb58f26641
 N
 src/test/java/Subat25/C11.java,d\4\d44d6ff8ddfc3f8570b9b4d35750c2a70eb7289e
+M
+src/test/java/Ocak24/C01.java,f\7\f74fec91906fb335b805967b0223b1d09b03a683
+M
+src/test/java/Subat28/C1.java,8\4\84d837d2dfc7d97ed0349734018e56e3f96da17d
