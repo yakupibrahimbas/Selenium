@@ -333,3 +333,7 @@ M
 src/test/java/Ocak24/C01.java,f\7\f74fec91906fb335b805967b0223b1d09b03a683
 M
 src/test/java/Subat28/C1.java,8\4\84d837d2dfc7d97ed0349734018e56e3f96da17d
+L
+src/test/java/Ocak23/C1.java,3\f\3f2f141fcbec760e205b168a837a67957b521172
+M
+src/test/java/Subat28/C2.java,c\7\c7dbfd3a2e5eb345a46b1ab12fb8e3820e5c7d62
