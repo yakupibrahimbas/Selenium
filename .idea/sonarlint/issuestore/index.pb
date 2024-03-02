@@ -337,3 +337,7 @@ L
 src/test/java/Ocak23/C1.java,3\f\3f2f141fcbec760e205b168a837a67957b521172
 M
 src/test/java/Subat28/C2.java,c\7\c7dbfd3a2e5eb345a46b1ab12fb8e3820e5c7d62
+V
+&src/test/java/Ocak22/C02ClassWork.java,a\4\a465f4da56ddb09553009d78a327ff07575d0a4b
+M
+src/test/java/Subat28/C3.java,b\9\b92fdba0473dd674eba6f86bafabfa0668c1b570
