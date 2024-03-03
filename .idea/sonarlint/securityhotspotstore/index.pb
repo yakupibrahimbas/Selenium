@@ -341,3 +341,7 @@ V
 &src/test/java/Ocak22/C02ClassWork.java,a\4\a465f4da56ddb09553009d78a327ff07575d0a4b
 M
 src/test/java/Subat28/C3.java,b\9\b92fdba0473dd674eba6f86bafabfa0668c1b570
+^
+.src/test/java/day07_xpath_cssSelector/C04.java,4\f\4f7041a0f75cd29a0204e8a5c5618337f662923b
+M
+src/test/java/Subat28/C4.java,d\4\d4ac91d575c53d6c057e935f9046dcd70612727f
