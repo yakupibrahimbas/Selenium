@@ -349,3 +349,7 @@ M
 +src/test/java/Ocak22/webelements_xpath.java,4\4\44058916e91d358ab02a8b92b57a75db851446f6
 M
 src/test/java/Subat28/C5.java,0\8\084a15e645bd8a5330c7c56231a890559a8252f7
+m
+=src/test/java/day07_xpath_cssSelector/C01_XpathClassWork.java,0\b\0b0fbd808bb71c277f3c7139582b78434fe7d490
+M
+src/test/java/Subat28/C6.java,9\3\93a501fa7bbe60d9f8296a2c26c201c3fd837d90
