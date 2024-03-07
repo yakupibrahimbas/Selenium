@@ -353,3 +353,5 @@ m
 =src/test/java/day07_xpath_cssSelector/C01_XpathClassWork.java,0\b\0b0fbd808bb71c277f3c7139582b78434fe7d490
 M
 src/test/java/Subat28/C6.java,9\3\93a501fa7bbe60d9f8296a2c26c201c3fd837d90
+M
+src/test/java/Subat28/C7.java,e\5\e5cc28c29501dfef46e6506284e0eb1b5ff017d8
