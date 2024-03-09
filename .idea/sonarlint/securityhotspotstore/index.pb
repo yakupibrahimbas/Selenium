@@ -357,3 +357,7 @@ M
 src/test/java/Subat28/C7.java,e\5\e5cc28c29501dfef46e6506284e0eb1b5ff017d8
 M
 src/test/java/Subat28/C8.java,3\2\321135d3552cca811167ff1403114f319629a802
+^
+.src/test/java/day05_locators/C01_Locators.java,8\1\818accd468312d72b49cf9574cc7cddd487fced3
+M
+src/test/java/Subat28/C9.java,5\8\58bd8246b611ad0aef8f5820fc5005aa0892b202
