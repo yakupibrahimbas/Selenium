@@ -35,7 +35,7 @@ public class C02_BeforeAfter {
 
     @AfterAll
     public static void afterAll() {
-        System.out.println("@BeforeAll notasyonuna sahip olan bir method classs taki tum test methodlarindan sonra calisir");
+        System.out.println("@AfterAll notasyonuna sahip olan bir method classs taki tum test methodlarindan sonra calisir");
 
     }
 }

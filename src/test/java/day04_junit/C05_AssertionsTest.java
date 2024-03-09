@@ -19,7 +19,7 @@ public class C05_AssertionsTest {
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        driver.get("https://google.com");
+        driver.get("https://www.google.com/");
 
         // Sayfa url nin https://www.google.com/ oldugunu dogrulayin
         String expectedTitle="Google";
@@ -34,9 +34,9 @@ public class C05_AssertionsTest {
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        driver.get("https://google.com");
+        driver.get("https://www.google.com/");
 
-        String expectedUrl="Google";
+        String expectedUrl="https://www.google.com/";
         String actualUrl=driver.getCurrentUrl();
         Assertions.assertEquals(expectedUrl,actualUrl);
         driver.close();
