@@ -361,3 +361,7 @@ M
 .src/test/java/day05_locators/C01_Locators.java,8\1\818accd468312d72b49cf9574cc7cddd487fced3
 M
 src/test/java/Subat28/C9.java,5\8\58bd8246b611ad0aef8f5820fc5005aa0892b202
+R
+"src/test/java/Ocak17/Homework.java,3\b\3b3e9c1aa353e25a59e2323219b79fbda310bd32
+N
+src/test/java/Subat28/C10.java,a\1\a1d79b058a80000a624e3ba663b2552b1a6db454
