@@ -381,3 +381,5 @@ J
 src/test/java/Mart/C4.java,1\f\1f4658b353b2e6d768df259a5f04ca6f8ae80bee
 J
 src/test/java/Mart/C5.java,c\e\ce86126ae7f0108562710ba7f0e243cf8f9b8662
+J
+src/test/java/Mart/C6.java,a\9\a98822108ab2a28e3e599e6ac46fd0f058e97a5c
