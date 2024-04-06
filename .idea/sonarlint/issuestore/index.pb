@@ -391,3 +391,5 @@ N
 src/test/java/Subat28/C13.java,6\f\6fe3f535027ca4d9cfd8c075bc945c4a384022b1
 N
 src/test/java/Subat28/C14.java,a\b\abe335c939e6d7fc69ce06045c25d1cdb6e7bcb7
+N
+src/test/java/Subat28/C15.java,6\9\69f583cebb651f325478a4bb6afed4007eec7c23
