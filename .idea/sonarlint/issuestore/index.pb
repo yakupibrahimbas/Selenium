@@ -399,3 +399,5 @@ N
 src/test/java/Subat28/C17.java,2\1\21f94f50e0eabc2121a7d21b15ddfa37fb687f1a
 N
 src/test/java/Subat28/C18.java,f\1\f106b41c2a1da93ee58169b35210396bf2c94566
+N
+src/test/java/Subat28/C19.java,1\6\16566ee0110a49a0cc5392fb566d9b36ad5ad620
