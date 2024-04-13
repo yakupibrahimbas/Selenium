@@ -401,3 +401,7 @@ N
 src/test/java/Subat28/C18.java,f\1\f106b41c2a1da93ee58169b35210396bf2c94566
 N
 src/test/java/Subat28/C19.java,1\6\16566ee0110a49a0cc5392fb566d9b36ad5ad620
+a
+1src/test/java/day04_junit/C05_AssertionsTest.java,a\b\ab453b137791749d84804810cf1067b41514c11d
+a
+1src/test/java/day04_junit/C06_AssertionsTest.java,6\7\67d6b5e4f9f97f942b7f0c492c945340e0af8be2
