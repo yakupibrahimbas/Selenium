@@ -405,3 +405,7 @@ a
 1src/test/java/day04_junit/C05_AssertionsTest.java,a\b\ab453b137791749d84804810cf1067b41514c11d
 a
 1src/test/java/day04_junit/C06_AssertionsTest.java,6\7\67d6b5e4f9f97f942b7f0c492c945340e0af8be2
+^
+.src/test/java/day04_junit/C02_BeforeAfter.java,0\9\09e6b4e6a51f786bfc8efe4ca09a7d30655768f0
+`
+0src/test/java/day04_junit/C07_BeforeAfter_2.java,5\1\51342497cca084310ae2c37a77e32b053aebbe65

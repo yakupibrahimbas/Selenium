@@ -1,0 +1,17 @@
+
+O
+java:S2699"-Add at least one assertion to this test case.(’è“Ëıÿÿÿÿ8á¨öòí1
+O
+java:S2699"-Add at least one assertion to this test case.(²œÿøøÿÿÿÿ8â¨öòí1
+O
+java:S2699"-Add at least one assertion to this test case.(©¶‹Êùÿÿÿÿ8â¨öòí1
+®
+java:S3577"Rename class "C07_BeforeAfter_2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(­Ü¾û8â¨öòí1
+@
+java:S5786"Remove this 'public' modifier.(’è“Ëıÿÿÿÿ8ã¨öòí1
+@
+java:S5786"Remove this 'public' modifier.(²œÿøøÿÿÿÿ8ã¨öòí1
+@
+java:S5786"Remove this 'public' modifier.(©¶‹Êùÿÿÿÿ8ã¨öòí1
+€
+java:S1607"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(©¶‹Êùÿÿÿÿ8ä¨öòí1
