@@ -409,3 +409,7 @@ a
 .src/test/java/day04_junit/C02_BeforeAfter.java,0\9\09e6b4e6a51f786bfc8efe4ca09a7d30655768f0
 `
 0src/test/java/day04_junit/C07_BeforeAfter_2.java,5\1\51342497cca084310ae2c37a77e32b053aebbe65
+a
+1src/test/java/day04_junit/C01_jUnitFirstTest.java,2\b\2bfdd99cd2f15d8391de756a52e49e4992326b66
+_
+/src/test/java/day04_junit/C08_Assertions_2.java,d\5\d5eb9a13ef2e9654fe0408f2274401b95bbe11ad
