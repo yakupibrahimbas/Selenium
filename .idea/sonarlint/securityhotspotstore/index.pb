@@ -415,3 +415,7 @@ _
 /src/test/java/day04_junit/C08_Assertions_2.java,d\5\d5eb9a13ef2e9654fe0408f2274401b95bbe11ad
 J
 src/test/java/Mart/C7.java,5\5\55aacb2a2eb544410bb08d5a9a4517171905fae8
+{
+Ksrc/test/java/day14_seleniumWaits_exceptions/C05_NullPointerException2.java,a\7\a7fd8f46316d77d44ce68e045ecf2ee833c3faa8
+x
+Hsrc/test/java/day14_seleniumWaits_exceptions/C04_TimesOutException2.java,9\6\9638d735b902b2d30c6599fd4307afe79eb92c9a
