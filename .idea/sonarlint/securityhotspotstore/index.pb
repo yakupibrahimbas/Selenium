@@ -423,3 +423,7 @@ j
 :src/test/java/day09_testbase_alert_iframe/C05_Iframe2.java,8\8\88481a2f431ad25a1da6c4e480b81c08ebc38161
 i
 9src/test/java/day09_testbase_alert_iframe/C04_Iframe.java,f\b\fb140570d5e535579313eb8fa884da0dcbf10064
+h
+8src/test/java/day09_testbase_alert_iframe/C02_Alert.java,7\9\793cc3910ac6c2c241f79ef2305dbf35a29ccd44
+h
+8src/test/java/day09_testbase_alert_iframe/C06_Alert.java,9\b\9b6a5fe21d83590590042e79d26524964f42212a
