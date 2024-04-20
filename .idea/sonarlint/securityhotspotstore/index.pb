@@ -429,3 +429,5 @@ h
 8src/test/java/day09_testbase_alert_iframe/C06_Alert.java,9\b\9b6a5fe21d83590590042e79d26524964f42212a
 |
 Lsrc/test/java/day10__windowHandle_basicAuthentication/C04_WindowsHandle.java,d\1\d1a28c1e3805396fe8372b740ba7cdbf75d7565e
+‚
+Rsrc/test/java/day10__windowHandle_basicAuthentication/C05_BasicAuthentication.java,0\a\0a2c9ce86478b8cc4c1e12617e29b9251100f0b6
